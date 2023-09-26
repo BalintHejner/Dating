@@ -1,19 +1,19 @@
 # Társkereső
 
 ## neme
-    - megnevezés
+  - megnevezés
 
 ## Személy
-    - név / becenév
-    - kor
-    - neme
-    - súly
-    - érdekel: nemek alapján
-    - magasság
-    - bemutatkozás
-    - csak egy éjszaka (i/n)
-    - lakóhely (megye)
-    - fényképek
+  - név / becenév
+  - kor
+  - neme
+  - súly
+  - érdekel: nemek alapján
+  - magasság
+  - bemutatkozás
+  - csak egy éjszaka (i/n)
+  - lakóhely (megye)
+  - fényképek
 
 # Működés
     - Nincs online regisztráció -> Kell egy admin felület
