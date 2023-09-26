@@ -1,0 +1,35 @@
+<form>
+  <div class="row">
+    <div class="col-12 col-md-6">
+      <label for="gender" class="form-label">Akit keresek:</label>
+      <select class="form-select" id="gender">
+        <option></option>
+        <option>Férfi</option>
+        <option>Nő</option>
+      </select>
+    </div>
+    <div class="col-md-6 col-12">
+      <label for="fromAge" class="form-label">Életkor</label>
+      <br>
+      <input type="number" class="form-control" id="fromAge">
+      <span class="mx-2">-</span>
+      <input type="number" class="form-control" id="toAge">
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 col-12">
+        <label for="county" class="form-label">Megye: </label>
+        <select class="form-select" id="gender">
+          <option>Győr-Moson-Sopron</option>
+          <option>Komárom-Esztergom</option>
+        </select>
+      </div>
+
+      <div class="col-md-6 col-12">
+        <input type="checkbox" class="form-check-input" id="onlyANight">
+        <label for="onlyANight" class="form-label">Csak alkalmi kapcsolatot keresek.</label>
+      </div>
+    </div>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
