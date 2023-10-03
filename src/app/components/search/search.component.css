@@ -11,4 +11,6 @@ input[type="checkbox"] {
 
 label[for="onlyANight"] {
   font-size: 1.2rem;
+  margin-left: 0.5 rem;
+  margin-top: 12px;
 }
