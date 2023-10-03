@@ -8,6 +8,8 @@ import { CardListComponent } from './components/card-list/card-list.component';
 import { MainComponent } from './components/main/main.component';
 import { SearchComponent } from './components/search/search.component';
 import { CardComponent } from './components/card/card.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { CardComponent } from './components/card/card.component';
     CardListComponent,
     MainComponent,
     SearchComponent,
-    CardComponent
+    CardComponent,
+    ContactComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
