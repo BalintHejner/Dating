@@ -2,3 +2,13 @@
   width: 120px;
   display: inline-block;
 }
+
+input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+  margin-top: 12px;
+}
+
+label[for="onlyANight"] {
+  font-size: 1.2rem;
+}
